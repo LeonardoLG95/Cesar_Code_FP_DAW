@@ -1,2 +1,6 @@
 # Cesar Code
-Cesar Code in C#
+
+Encrypts an entered message,
+exchanging the letters for
+a corresponding number in 
+the dictionary indicated by the user.
